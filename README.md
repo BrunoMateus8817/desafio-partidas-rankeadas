@@ -57,4 +57,4 @@ Este projeto está sob a licença MIT.
 
 ---
 
-Desenvolvido por [Seu Nome](https://github.com/seuusuario) 🚀
+Desenvolvido por [Bruno Mateus Barbosa Santos](https://github.com/seuusuario) 🚀
