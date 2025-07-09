@@ -44,17 +44,5 @@ Este projeto está sob a licença MIT.
 
 ---
 
-### 🚀 Checklist de entrega DIO e LinkedIn:
-✅ Subir o projeto no GitHub com README organizado ✅  
-✅ Adicionar uma breve explicação no campo de entrega da DIO ✅  
-✅ Fazer um post no LinkedIn sobre o projeto destacando:
-- A importância de treinar lógica de programação.
-- Aprendizados sobre Git e GitHub.
-- Imagem do VS Code ou console rodando o projeto.
-- Link do repositório para seu portfólio.
-
-📈 Isso fortalecerá sua presença no LinkedIn e facilitará seu posicionamento para vagas na área de programação.
-
----
 
 Desenvolvido por [Bruno Mateus Barbosa Santos](https://github.com/seuusuario) 🚀
